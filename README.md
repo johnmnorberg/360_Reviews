@@ -5,20 +5,20 @@ I wrote this in early 2019, and it was successfully deployed by my employer. The
 
 When it was deployed, I used a two folder framework, as follows:
 
-Template_folder/
-    Create_360s_Template.exe
-    Employees.xlsx
-    Questions.xlsx
-    360_Reviews_Template.xlsx (Created by the .exe file)
+* Template_folder/
+    * Create_360s_Template.exe
+    * Employees.xlsx
+    * Questions.xlsx
+    * 360_Reviews_Template.xlsx (Created by the .exe file)
 
-Compiling_folder/
-    360_Reviews.exe
-    Employees.xlsx (must be a duplicate from above)
-    Questions.xlsx (must be a duplicate from above)
-    Employee_A.xlsx
-    Employee_B.xlsx
-    Employee_C.xlsx
-    ...
+* Compiling_folder/
+    * 360_Reviews.exe
+    * Employees.xlsx (must be a duplicate from above)
+    * Questions.xlsx (must be a duplicate from above)
+    * Employee_A.xlsx
+    * Employee_B.xlsx
+    * Employee_C.xlsx
+    * ...
     
 In this repository, I am providing the .py files used to create the .exe files as well as the relevant employee and questions .xlsx files. I converted the .py files to .exe as Python was not guaranteed to be installed on the computers that would be executing the process as Python was not needed by any other employee within the company.
 
