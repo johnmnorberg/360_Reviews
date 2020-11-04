@@ -1,4 +1,4 @@
-# 360_Reviews
+# 360 Reviews
 This was my first Python project to develop an automated means to collate and distribute 360 reviews. 360 reviews allow employees to answer questions about their coworkers and themselves. Answers are collected, and can be anonymously given back to each employee by their supervisor. The process allows individuals to hear feedback from their peers that their peers may not be comfortable giving. It also allows for some self reflection. The goal of 360s is to provide constructive criticism and praise.
 
 I wrote this in early 2019, and it was successfully deployed by my employer. The code has been modified slightly to make it generic for re-use. The goal of the project was to find a free and time-saving method to collect, collate, and distribute answers from about 15-20 people.
